@@ -14,7 +14,7 @@
 
 ## Телефоны (задача со звёздочкой)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/f9e5epgxq8fka3yb?svg=true)](https://ci.appveyor.com/project/BudTon/regular-tel-correction)
 
 **Важно**: данная задача не является обязательной 
 
